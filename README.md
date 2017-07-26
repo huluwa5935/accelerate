@@ -1,4 +1,4 @@
-# Some useful scripts
+# 一些有用的脚本
 
 bbr.sh
 ======
