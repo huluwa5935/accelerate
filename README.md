@@ -3,7 +3,7 @@
 bbr.sh
 ======
 
-- Description: Auto install latest kernel for TCP BBR
-- Intro: https://www.souyuba.com/
+- 描述: 自动安装新内核的TCP BBR
+- 简介: https://www.souyuba.com/?p=48
 
 Copyright (C) 2016-2017 souyuba <www.souyuba.com>
